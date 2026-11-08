@@ -1,0 +1,20 @@
+# Source: Aramex PJSC, "Stable Revenues and Logistics Momentum Drive Aramex's 2025 Financial Performance", press release, Dubai, 10 February 2026 (DFM: ARMX).
+# Figures in AED thousands unless the metric says otherwise. Transcribed by hand; tests/test_data.py checks them against the printed margins and growth rates.
+level,item,metric,fy2025,fy2024,q4_2025,q4_2024,printed_fy_yoy_pct,printed_fy2025_margin_pct,printed_fy2024_margin_pct
+group,Group,revenue,6359946,6324444,1700165,1695132,1,,
+group,Group,gross_profit,1449468,1512203,385262,398609,-4,22.8,23.9
+group,Group,ebit,192711,296675,51553,89186,-35,3.0,4.7
+group,Group,normalized_ebit,237748,296675,68436,89186,-20,3.7,4.7
+group,Group,ebitda,568948,650304,153369,177431,-13,8.9,10.3
+group,Group,net_profit,20582,141811,7517,65667,-85,0.3,2.2
+group,Group,normalized_net_profit,85029,141811,24932,65667,-40,1.3,2.2
+segment,International Express,revenue,2144254,2412484,575453,615060,-11,,
+segment,International Express,gross_profit,676833,780824,177952,194877,-13,31.6,32.4
+segment,Domestic Express,revenue,1843244,1685599,520362,480688,9,,
+segment,Domestic Express,gross_profit,406081,398396,123089,113562,2,22.0,23.6
+segment,Freight Forwarding,revenue,1791345,1723973,454405,464481,4,,
+segment,Freight Forwarding,gross_profit,224740,219956,48054,58038,2,12.5,12.8
+segment,Logistics,revenue,536748,455318,138462,122730,18,,
+segment,Logistics,gross_profit,104614,70362,26497,21013,49,19.5,15.5
+volume,International Express,shipments_m,23.6,28.1,6.3,7.2,-16,,
+volume,Domestic Express,shipments_m,119.8,111.3,33.4,31.0,8,,
