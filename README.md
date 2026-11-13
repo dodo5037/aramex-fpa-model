@@ -2,6 +2,8 @@
 
 An FP&A-style review of **Aramex PJSC (DFM: ARMX)**, the Dubai-listed logistics company, built from its **published FY2025 results**. It does what a finance team does after year-end: revenue and gross-profit bridges, a mix-vs-rate analysis of the margin drop, price-vs-volume for Express, one-off items, driver-based 2026 scenarios, an **Excel model with live formulas**, and an **auto-generated variance memo** where every number is computed, never typed.
 
+**In plain terms:** Aramex's profit fell because its gross margin fell, not because costs rose (overheads were flat). 56% of the margin drop came from selling a less profitable mix, mainly less International Express, while Logistics added AED 34.3m of gross profit. The 2026 scenarios are my own illustrative assumptions.
+
 ![Bridges](outputs/charts/01_bridges.png)
 
 ## Key findings
